@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="YouTubeAudioDownloader:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/YouTubeAudioDownloader_jar</output-path>
+    <root id="archive" name="YouTubeAudioDownloader.jar">
+      <element id="module-output" name="YouTubeAudioDownloader" />
+    </root>
+  </artifact>
+</component>
