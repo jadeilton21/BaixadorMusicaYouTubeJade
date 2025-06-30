@@ -2,7 +2,7 @@
 graph TD
     %% Entradas do usuário
     A[Usuário] --> B[Campo de Texto - YouTube URL]
-    A --> C[Campo de Texto - Filme URL (.mp4)]
+    A --> C[Campo de Texto - Filme URL (-mp4)]
 
     %% Botões
     B --> D[Botão "Baixar Áudio"]
