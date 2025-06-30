@@ -1,4 +1,1 @@
-```mermaid
-![Diagrama](jadewilton.png)
-
-```
+![Diagrama](./jadewilton.png)
